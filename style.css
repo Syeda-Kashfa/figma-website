@@ -1,3 +1,7 @@
+.nav-toggler-icon{
+    width: 24px;
+    height: 24px;
+}
 .Btn{
     font-weight: bold;
     font-size: 20px;
@@ -5,7 +9,7 @@
 }.bgclr{
     background: #d6bfbf39;
     border-radius: 20px 20px 0 0;
-    box-shadow: 10px 10px 10px #f58738;
+    box-shadow: 5px 5px 10px #f58738;
 }
 .btN{
     width: 150px;
@@ -16,7 +20,7 @@
     font-size: 20px;
     color: #F53855;
 } 
-span{
+.txt span{
     font-weight: bolder;
     font-size: 60px;
 }
@@ -71,8 +75,10 @@ li img{
     box-shadow: 5px 5px 10px #f58738;
 }
 
+
 .socl img{
     width: 150px;
+    height: 70px;
     
    
 }
@@ -101,3 +107,4 @@ li img{
 .ftr img{
     width: 50px;
 }
+
